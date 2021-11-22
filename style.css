@@ -56,9 +56,9 @@ body {
     animation-play-state: paused;
 }
 
-.music-container.play .image-container img {
+/* .music-container.play .image-container img { */
     /* animation-play-state: running; */
-}
+/* } */
 
 @keyframes rotate {
     from {
